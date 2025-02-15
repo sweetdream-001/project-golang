@@ -143,7 +143,6 @@ Gin uses a custom version of [HttpRouter](https://github.com/julienschmidt/httpr
 | BenchmarkTango_GithubAll       |      6255 |    279611 ns/op |   63826 B/op |  1618 allocs/op |
 | BenchmarkTigerTonic_GithubAll  |      2008 |    687874 ns/op |  193856 B/op |  4474 allocs/op |
 | BenchmarkTraffic_GithubAll     |       355 |   3478508 ns/op |  820744 B/op | 14114 allocs/op |
-| BenchmarkVulcan_GithubAll      |      6885 |    193333 ns/op |   19894 B/op |   609 allocs/op |
 
 - (1): Total Repetitions achieved in constant time, higher means more confident result
 - (2): Single Repetition Duration (ns/op), lower is better
