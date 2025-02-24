@@ -3,7 +3,7 @@ module github.com/gin-gonic/gin
 go 1.22
 
 require (
-	github.com/bytedance/sonic v1.11.6
+	github.com/bytedance/sonic v1.12.9
 	github.com/gin-contrib/sse v0.1.0
 	github.com/go-playground/validator/v10 v10.22.1
 	github.com/goccy/go-json v0.10.5
@@ -19,9 +19,8 @@ require (
 )
 
 require (
-	github.com/bytedance/sonic/loader v0.1.1 // indirect
-	github.com/cloudwego/base64x v0.1.4 // indirect
-	github.com/cloudwego/iasm v0.2.0 // indirect
+	github.com/bytedance/sonic/loader v0.2.2 // indirect
+	github.com/cloudwego/base64x v0.1.5 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
